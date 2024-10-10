@@ -10,16 +10,16 @@ global.antitags = false;
 
 
 //auto functioner
-global.autoTyping = false;                //make true to enable auto typing
-global.autoRecord = true;                //make true to enable auto recording
-global.autoviewstatus = false;                 //make true to view statuses 
+global.autoTyping = true;                //make true to enable auto typing
+global.autoRecord = false;                //make true to enable auto recording
+global.autoviewstatus = true;                 //make true to view statuses 
 global.anticall = false
 
 
-global.SESSION_ID = process.env.SESSION_ID || ""
-global.Owner = ["2349151864541"]; //like 2347080968564 
-global.OwnerName =  "Tᴀɪʀᴀ Mᴀᴋɪɴᴏ";
-global.BotName = "♱MAKINO-MD-V2♱♡⃤";
+global.SESSION_ID = process.env.SESSION_ID || "taira_tech-f11x2Dra#65mUwY-hoWDs25U_nwGB55uldGhub84PSne_YfkPrCQ"
+global.Owner = ["2348145291545"]; //like 2347080968564 
+global.OwnerName =  "Noble Dev";
+global.BotName = "Noble Dev";
 global.packname = "♱MAKINO-MD-V2♱♡⃤";                             //Do not change.
 global.author = "TAIRA MAKINO";                               //Do not change.
 global.BotSourceCode = "https://github.com/anonphoenix007/MAKINO-MD-V2"; //Do not change.
